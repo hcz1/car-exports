@@ -366,3 +366,6 @@ a:focus {
   #portfolio .items li { width: 100% }
   #testimonials .quote { padding: 0 30px }
 }
+img{
+  padding: 10px;
+}
